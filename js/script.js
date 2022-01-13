@@ -49,8 +49,6 @@ fetchAnimais("./animais-fantasticos-origamid/animaisapi.json", ".numeros-grid");
 
 fetchBitcoin("https://blockchain.info/ticker", ".btc-preco");
 
-// caminho no live page "./animais-fantasticos-origamid/animaisapi.json"
-
 const slide = new SlideNav(".slide", ".slide-wrapper");
 
 slide.init();
